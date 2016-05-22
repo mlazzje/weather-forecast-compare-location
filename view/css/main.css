@@ -55,3 +55,7 @@ li h3 {
     vertical-align:middle; 
     display: inline-block;
 }
+
+.clickable {
+    cursor: pointer;
+}
